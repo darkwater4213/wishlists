@@ -1180,3 +1180,21 @@ dimwishlist:item=417164956&perks=332773068,1687452232,3275789089,862848869
 // Sweet Business - INFTY.EXE (pve,god-pve)
 //notes: On Titan: equip Actium War Rig. Nothing more to say. tags:pve,god-pve
 dimwishlist:item=1345867570&perks=1392496348,1968497646,1853177948,3465198467
+
+
+// Drang - Also gay. (pve)
+//notes: Drang is kind of awesome, and almost better than Sturm. One of the few really good sidearms. Iffy in PvP. Also is gay.
+Sidenote: wanna fall down a rabbit hole? Look up whether Drang is a blowback mechanism (it is). tags:pve
+dimwishlist:item=2362471600&perks=1482024992,3425386926,588594999,3142289711
+
+
+// The Jade Rabbit - meta meta meta maybe (pvp,god-pvp)
+//notes: Might be meta. Maybe. tags:pvp,god-pvp
+dimwishlist:item=3844694310&perks=1392496348,1561002382,2387244414
+
+
+// Trinity Ghoul - Three adds walk into a bar... (pve)
+//notes: Okay for add clear, but not much else. Sad. tags:pve
+dimwishlist:item=814876685&perks=3371775011,16392701,200829441
+
+
