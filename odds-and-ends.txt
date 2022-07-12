@@ -1120,3 +1120,63 @@ dimwishlist:item=2907129557&perks=3661387068,3142289711,4115637021,3917450714
 //notes: Not much to say here. A really high-performing hand cannon by all accounts. Not much else to it, though. It would be really nice if it had an ammo or reload catalyst, (or precision hits have a chance to return ammo, or mulligan, idk). Don't ADS. tags:pvp,god-pvp
 dimwishlist:item=1364093401&perks=4090651448,3142289711,1866048759,3917450714
 
+
+// The Huckleberry - If it looks like a duck... (pve,god-pve)
+//notes: It's a goose! This thing looks like a toy -- but it's anything but. Seriously good for add clear. Easy cat, easy mw. Do it. tags:pve,god-pve
+dimwishlist:item=2286143274&perks=1840239774,1885400500,3551326236,1067908860
+
+
+// Sturm - Gay. (pve)
+//notes: Good impact, odd recoil, unsat range, gay.
+Use Drang (also gay). tags:pve
+dimwishlist:item=2907129556&perks=1467527085,2420895100,2238035098,3438534621
+
+
+// Le Monarque - Coincidence? I think NOT! (pvp,god-pvp)
+//notes: I'm not sure if this qualifies as a Weapon of Sorrow... But it should. At any rate, it's mediocre. Like most bows, it has a steep learning curve but is really good IF you can use it. Get some practice. tags:pvp,god-pvp
+dimwishlist:item=3588934839&perks=1784898267,16392701,957782887
+
+
+// Telesto - Harbinger of ERR (pvp,pve)
+//notes: WOW this thing's broken. Use it. See how many bugs you can find! :D tags:pvp,pve
+dimwishlist:item=2208405142&perks=2969185026,3970637031,862848869
+
+
+// Fighting Lion - cool ig (pve,pvp)
+//notes: use marksman's dodge tags:pve,pvp
+dimwishlist:item=3549153978&perks=3809316345,3492396210,2003108620,1067908860
+
+
+// Le Monarque - Coincidence? I think NOT! (pvp,god-pvp)
+//notes: I'm not sure if this qualifies as a Weapon of Sorrow... But it should. At any rate, it's mediocre. Like most bows, it has a steep learning curve but is really good IF you can use it. Get some practice. tags:pvp,god-pvp
+dimwishlist:item=3588934839&perks=1784898267,16392701,957782887
+
+
+// Monte Carlo - Sol'nades (pve,god-pve,pvp)
+//notes: Use Sunbracers on Warlock for a seriously fun (and slightly overpowered) build. It's fun and extraordinarily useful. tags:pve,god-pve,pvp
+dimwishlist:item=4068264807&perks=1840239774,1561002382,2814973067,3465198467
+
+
+// Hard Light - Thump-a thump-a thump-a (god-pve,pvp,pve)
+//notes: Great for PvP and Match Game. tags:god-pve,pvp,pve
+dimwishlist:item=4124984448&perks=1392496348,1431678320,2620589274,3465198467
+
+
+// Riskrunner - Fallen A.R.C. (pve)
+//notes: Very niche application. Insanely good when you're constantly taking arc damage -- Fallen SABER, for instance. Otherwise, it sucks. tags:pve
+dimwishlist:item=3089417789&perks=839105230,2420895100,1530804125,1067908860
+
+
+// MIDA Multi-Tool - Daily Skate (pve,pvp,god-pvp)
+//notes: Pair this with Mini-tool and Transversive Steps -- and you're FLYING! It's amazing! Almost faster than a Hunter -- try it! tags:pve,pvp,god-pvp
+dimwishlist:item=1331482397&perks=4090651448,1561002382,3100590152,990298390
+
+
+// Jötunn - CLANG.EXE (god-pvp,pvp,pve)
+//notes: Overpowered in PvP. Takes quite a bit of practice, though. Get used to one-shot-one-kill :) tags:god-pvp,pvp,pve
+dimwishlist:item=417164956&perks=332773068,1687452232,3275789089,862848869
+
+
+// Sweet Business - INFTY.EXE (pve,god-pve)
+//notes: On Titan: equip Actium War Rig. Nothing more to say. tags:pve,god-pve
+dimwishlist:item=1345867570&perks=1392496348,1968497646,1853177948,3465198467
