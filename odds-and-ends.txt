@@ -27,16 +27,18 @@ dimwishlist:item=370712896&perks=1441682018,2985827016,1549056416,862848869
 
 // The Palindrome - Sad. Not good! (pve,pvp)
 //notes: Bungie sunsetted this Nightfall weapon at the end of Season 16 (Season of the Risen). One of the best legendary hand cannons in the game; what a shame. tags:pve,pvp
-dimwishlist:item=432476743&perks=
+dimwishlist:item=432476743
 
 
-// Ascendancy - You get to explode! And you get to explode! You ALL get to explode! (pve,god-pve)
-//notes: Blast this at a crowd with Chain Reaction equipped and watch your Final Blows per Strike go through the roof. It's awesome. Or, if you're going for DPS in a raid, use Explosive Light. Usually, someone will have placed a Well, which immediately gives you three shots of 100 Blast Radius and 25% buffed damage. In the third column, Ambitious Assassin is good with Chain Reaction to get two shots per reload. It's kind of a niche thing though... Cool shaders include: Metro Shift, Byzantium Lotus, most ritual shaders. tags:pve,god-pve
-dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,2396489472
+// Ascendancy - DPS Insanity (pve,god-pve)
+//notes: ...[If] you're going for DPS in a raid, use Explosive Light. Usually, someone will have placed a Well, which immediately gives you three shots of 100 Blast Radius and 25% buffed damage. Do it. It's fun. tags:pve,god-pve
 dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,3194351027
-dimwishlist:item=725408022&perks=3525010810,3796465595,2010801679,2396489472
-dimwishlist:item=725408022&perks=3525010810,3796465595,2010801679,3194351027
 
+
+// Ascendancy - You get to explode! And you get to explode! You ALL get to explode! (pve)
+//notes: Blast this at a crowd with Chain Reaction equipped and watch your Final Blows per Strike go through the roof. It's awesome. In the third column, Ambitious Assassin is good with Chain Reaction to get two shots per reload. It's kind of a niche thing though... Cool shaders include: Metro Shift, Byzantium Lotus, most ritual shaders. tags:pve
+dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,2396489472
+dimwishlist:item=725408022&perks=3525010810,3796465595,2010801679,2396489472
 
 // Deafening Whisper - Wave of... uh... idk (pve)
 //notes: Wave frames are making something of a minor comeback. That's good, isn't it? You could pick this roll up from Xur in late June 2022. Sorry if you missed out. Really good beginner's roll. Also just a good roll for PvE. tags:pve
@@ -68,16 +70,6 @@ dimwishlist:item=1363886209&perks=1478423395,2985827016,3874977694,1067908860
 
 // No Time to Explain - ...Rode the Six Hundred (mnk,pvp,pve)
 //notes: Man, this gun is great. Very well-balanced, it fires quickly, unlike most other pulse rifles; it doesn't suck (again, unlike most other pulse rifles, especially this season), and it has a cool auto-turret sort of thing (Time-slip). It does pretty good damage, especially in PvP. Like most pulse rifles, it has pretty decent effective range. I don't take advantage of the full-auto trigger, but that's fine. That's not the focus of this gun. WGW Compass Rose, MIDA Mini-tool. W3 Shotguns, SMGs, Fusions. PvP MTU: Pulse Rifle Targeting x2, if possible. Really good for those long-range almost-snipes. PvE MTU: run PRT and Kinetic Siphon for some Orbs. Use Absolution for some nice charge "buffs".
-
-Helmet: Solstice Hood (Rekindled) | Metro Shift
-Arms: Lightkin Gloves | Welded Brass
-Chest: Lightkin Robes | Metro Shift
-Legs: Transversive Steps | Default | Default or Metro Shift
-Class: Solstice Bond (Rekindled) | Mars Sunset
-Ghost: Kill-Tracker Ghost | Metro Shift
-Emblem: Ennead
-Vehicle: Telluride | Metro Shift
-Ship: Buckthorn Approach | Metro Shift | Stasis Entrance
 
 Control, Rift, Clash: https://dim.gg/lpg63ea/
 Elimination, Trials?: https://dim.gg/23rs (Untested)
@@ -1068,7 +1060,7 @@ dimwishlist:item=3260753130&perks=1196733167,3827198035,3298446480
 
 
 // Lord of Wolves - Stick to wall, human, Eliksni, then FFFFRRRRYYYYY!!!! Heheheheh. ()
-//notes: I hate how good this thing is. It's not really a shotgun, though, just happens to be very short-range.
+//notes: I hate how good this thing is. It's not really a shotgun, though, just happens to be very short-range. It's really a pulse rifle.
 dimwishlist:item=3413860063&perks=3661387068,2420895100,299272945,3465198467
 
 
@@ -1099,12 +1091,32 @@ dimwishlist:item=3761898871&perks=839105230,2680121939,1690446783,3465198467
 
 // The Colony - Thoonk. Thoonk. zlbzlbzlb -- Pop! Pop! (pve)
 //notes: I really like that this has auto-tracking projectiles. It's not a very endgame gun, but pretty decent for taking down minibosses in lower-level nightfalls. Give it a shot -- pun not intended.
-What would be better is if it actually regenerated half the spent ammo on a kill, much like Prometheus. But that would demand a nerf from Bungie. Looks like this isn't going much of anywhere. tags:pve
+What would be better is if it actually regenerated half the spent ammo on a kill, instead of simply reloading when stowed. But that would demand a nerf from Bungie. Looks like this isn't going much of anywhere. And that's okay. tags:pve
 dimwishlist:item=3899270607&perks=1441682018,2822142346,2019952880,3465198467
 
 
 // Divinity - Trace Overload (pve)
-//notes: Just do it. Er... Keep it. You know what I mean. tags:pve
+//notes: Just do it. Er... Keep it. You know what I mean. Try not to annoy your fireteam, though. tags:pve
 dimwishlist:item=4103414242&perks=1392496348,3868766766,1185480639,3465198467
 
+
+// Tractor Cannon - Bloop (pve,god-pve)
+//notes: Really awesome for higher-level content splash damage or suppression. Keep it. Use it.
+Also, it's just fun to use. tags:pve,god-pve
+dimwishlist:item=3580904581&perks=1467527085,3868766766,25692695,3465198467
+
+
+// Crimson - Red Dead 2 (pve,pvp)
+//notes: Red Death was good. Crimson is better. Maybe. Good for PvE. Almost better in PvP. tags:pve,pvp
+dimwishlist:item=3437746471&perks=1482024992,3142289711,2383960413,1012699414
+
+
+// Sunshot - They're gonna love this. (pve,god-pve,pvp)
+//notes: This thing is so fun. Plus, it's super scalable. It performs really well in both PvE and PvP, in high- and low-end content alike. Though the look is hard t incorporate into any fashion... Just roll with it, I guess. tags:pve,god-pve,pvp
+dimwishlist:item=2907129557&perks=3661387068,3142289711,4115637021,3917450714
+
+
+// The Last Word - Prolix (pvp,god-pvp)
+//notes: Not much to say here. A really high-performing hand cannon by all accounts. Not much else to it, though. It would be really nice if it had an ammo or reload catalyst, (or precision hits have a chance to return ammo, or mulligan, idk). Don't ADS. tags:pvp,god-pvp
+dimwishlist:item=1364093401&perks=4090651448,3142289711,1866048759,3917450714
 

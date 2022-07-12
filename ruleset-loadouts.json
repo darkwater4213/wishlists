@@ -1,0 +1,204 @@
+{
+    "meta": { // metadata associated with the file
+        "type": "loadout", // currently i dont have anything else
+        "kind": "dynamic", // dynamic: just rules; static: just items; hybrid: both
+        "sub": "ruleset", // determines how it acts
+        "name": "", 
+        "notes": ""
+    },
+    "char": {
+        "class": "global", // could also be: "titan" "hunter" "warlock"
+        "subclass": { // this part is designed to be backwards-compatible with subclass 2.0
+            "rule": "-is:stasis", // the "rule" asset determines what rule applies to whatever its parent is
+            "super": "", // 3
+            "class": "", // 3, 2 class-dependent (obviously)
+            "jump": "", // 3, 2 scd (subclass-dependent)
+            "melee": "", // 3
+            "grenade": "", // 3, 2
+            "aspects": ["", ""], // 3 These are in a list so they don't need names, just an index
+            "fragments": ["", "", "", "", "", ""], // 3 same as aspects; idk if it's possible to have six,but it might be
+            "tree": "-is:midtree" // 2 this would be the backwards-compatibility part
+        },
+    },
+    "weapons": {
+        "rule": "-is:exotic power:<=1560 (source:redwar or source:curseofosiris or source:warmind)",
+        "kinetic": {
+            "rule": "-is:stasis", // ig the rules for this match are "no pay-to-win crap"
+            "mod": "", // some things aren't yet implemented in loadouts, but I made it so that when they are, the infrastructure for storing them is already there
+            "shader": "",
+            "catalyst": "", // i forgot to add these last lins and had to type them in manually
+            "ornament": "", // also special use case
+            "perks": ["", "", "", "", ""],
+            "tracker": "",
+            "memento": ""
+        },
+        "energy": {
+            "rule": "",
+            "mod": "",
+            "shader": "",
+            "catalyst": "",
+            "ornament": "", // maybe i shoulda put shader and ornament in fashion instead
+            "perks": ["", "", "", "", ""],
+            "tracker": "", // ill do that in the next iteration ig
+            "memento": ""
+        },
+        "power": {
+            "rule": "-is:stasis -is:linearfusionrifle", // and also "no cheezball crap"
+            "mod": "",
+            "shader": "",
+            "catalyst": "", // wait this line is pointless bc you'll always want it in... hm
+            "ornament": "", // maybe catalyst should fall under mods idk
+            "perks": ["", "", "", "", ""],
+            "tracker": "",
+            "memento": ""
+        },
+        "globalmod": "-\"full auto retrofit\"", // more "no cheezball crap" ig
+        "globalshader": "" // this one and the last one are really very niche fields; idk why i didnt just leave it in the rule field, maybe for fsion loadouts? idk
+    },
+    "armor": {
+        "rule": "-is:exotic (source:redwar or source:curseofosiris or source:warmind)",
+        "head": "", // for specific armor pieces (meta.kind static) this would just be the id number
+        "arms": "", // whereas meta.kind hybrid would have "id:" prepended to it, because consistency ig
+        "chest": "",
+        "legs": "",
+        "class": ""
+    },
+    "fashion": {
+        "rule": "", // not sure why you would have a rule for fashion; i may have auto-generated this lol
+        "shaders": { // maybe for sharing fashion loadouts? idk
+            "head": "", 
+            "arms": "",
+            "chest": "",
+            "legs": "",
+            "class": ""
+        },
+        "ornaments": {
+            "head": "",
+            "arms": "",
+            "chest": "",
+            "legs": "",
+            "class": ""
+        }
+    }
+    "general": {
+        "ghost": {
+            "rule": "-\"kill-tracker ghost\"", // ig thhe owner wants this match to not count towards lifetime kills
+            "mods": ["", "", "", ""], // DIM will probably never be able to switch ghost mods. but it can still check for what they are.
+            "shader": "",
+            "projection": ""
+        },
+        "vehicle": {
+            "rule": "", // lol
+            "shader": "",
+        },
+        "ship": {
+            "rule": "",
+            "shader": "",
+            "transmat": "" // yeah this also costs glimmer... sad
+        },
+        "emblem": {
+            "rule": "", // double lol
+            "tracker": "" // ok ig this is reasonable
+        }
+    },
+    "mods": {
+        "rule": "", // maybe for... idk maybe some control freaks might use this
+        "head": { // ok this wouyld actually be really helpful for sharing loadouts with mods
+            "rule": "",
+            "general": "",
+            "item": ["", ""],
+            "raid": {
+                "vog": "",
+                "lastwish": "",
+                "gos": "",
+                "dsc": "",
+                "votd": "",
+                /* etc; idk all the raids */
+            },
+            "nightmare": "",
+            "warmind": "",
+            "chargedwithlight": "",
+            "well": "" // not sure why i didnt just set it up as combat style (one field one slot)
+        },
+        "arms": {
+            "rule": "",
+            "general": "",
+            "item": ["", ""],
+            "raid": {
+                "vog": "",
+                "lastwish": "",
+                "gos": "",
+                "dsc": "",
+                "votd": "",
+            },
+            "nightmare": "",
+            "warmind": "",
+            "chargedwithlight": "",
+            "well": "" // oh bc some armor only acceps certain mods; like legacy stuff
+        },
+        "chest": {
+            "rule": "",
+            "general": "",
+            "item": ["", ""],
+            "raid": {
+                "vog": "",
+                "lastwish": "",
+                "gos": "",
+                "dsc": "",
+                "votd": "",
+            },
+            "nightmare": "",
+            "warmind": "",
+            "chargedwithlight": "",
+            "well": ""
+        },
+        "legs": {
+            "rule": "",
+            "general": "",
+            "item": ["", ""],
+            "raid": {
+                "vog": "",
+                "lastwish": "",
+                "gos": "",
+                "dsc": "",
+                "votd": "",
+            },
+            "nightmare": "",
+            "warmind": "",
+            "chargedwithlight": "",
+            "well": ""
+        },
+        "class": {
+            "rule": "",
+            "general": "",
+            "item": ["", ""],
+            "raid": {
+                "vog": "",
+                "lastwish": "",
+                "gos": "",
+                "dsc": "",
+                "votd": "",
+            },
+            "nightmare": "",
+            "warmind": "",
+            "chargedwithlight": "",
+            "well": ""
+        },
+        "unassigned": { 
+            "rule": "", // haha there's no point to this line i cant think of a single use case
+            "general": "",
+            "raid": {
+                "vog": "",
+                "lastwish": "",
+                "gos": "",
+                "dsc": "",
+                "votd": "",
+            },
+            "nightmare": "",
+            "warmind": "",
+            "chargedwithlight": "",
+            "well": ""
+        }
+    }
+}
+// well that was long
