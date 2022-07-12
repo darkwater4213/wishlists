@@ -1198,3 +1198,9 @@ dimwishlist:item=3844694310&perks=1392496348,1561002382,2387244414
 dimwishlist:item=814876685&perks=3371775011,16392701,200829441
 
 
+// SUROS Regime - Tyrannical Legacy (pve,pvp)
+//notes: Just... just do it. You'll see why. tags:pve,pvp
+dimwishlist:item=2856683562&perks=3250034553,106909392,1378047685,990298390
+dimwishlist:item=2856683562&perks=3250034553,106909392,4012962526,990298390
+
+
