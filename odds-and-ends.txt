@@ -7,7 +7,7 @@ dimwishlist:item=19024058&perks=3661387068,2969185026,3470828242,3465198467
 
 
 // Whispering Slab - PvG (Player versus NADES) (pvp,pve)
-//notes: Use your grenades, Guardian. They won't do any damage just sitting there!
+//notes: Use your grenades, Guardian. They won't do any damage just SITTING there!
 Only good in PvP if you're REALLY good with lightweight bows. tags:pvp,pve
 dimwishlist:item=211938782&perks=201365942,3523296417
 dimwishlist:item=211938782&perks=2450788523,3523296417
@@ -69,7 +69,7 @@ dimwishlist:item=1363886209&perks=1478423395,2985827016,3874977694,1067908860
 
 
 // No Time to Explain - ...Rode the Six Hundred (mnk,pvp,pve)
-//notes: Man, this gun is great. Very well-balanced, it fires quickly, unlike most other pulse rifles; it doesn't suck (again, unlike most other pulse rifles, especially this season), and it has a cool auto-turret sort of thing (Time-slip). It does pretty good damage, especially in PvP. Like most pulse rifles, it has pretty decent effective range. I don't take advantage of the full-auto trigger, but that's fine. That's not the focus of this gun. WGW Compass Rose, MIDA Mini-tool. W3 Shotguns, SMGs, Fusions. PvP MTU: Pulse Rifle Targeting x2, if possible. Really good for those long-range almost-snipes. PvE MTU: run PRT and Kinetic Siphon for some Orbs. Use Absolution for some nice charge "buffs".
+//notes: Man, this gun is great. Very well-balanced, it fires quickly, unlike most other pulse rifles; it doesn't suck (again, unlike most other pulse rifles, especially this season), and it has a cool auto-turret sort of thing (Time-slip). It does pretty good damage, especially in PvP. Like most pulse rifles, it has pretty decent effective range. I don't take advantage of the full-auto trigger, but that's fine. That's not the focus of this gun. WGW Compass Rose, MIDA Mini-tool. W3 Shotguns, SMGs, Fusions. PvP MTU: Pulse Rifle Targeting x2, if possible. Really good for those long-range almost-snipes. PvE MTU: run PRT and Kinetic Siphon for some Orbs. Use Absolution for some nice cooldown "buffs".
 
 Control, Rift, Clash: https://dim.gg/lpg63ea/
 Elimination, Trials?: https://dim.gg/23rs (Untested)
@@ -536,7 +536,7 @@ dimwishlist:item=2591241074&perks=852209214,16392701,2450788523,47981717
 
 // The Enigma - Reload? What "Reload"? (pve)
 //notes: Glaives are in a sorry state. Get reload speed as high as possible with this one, but other than that...
-Forget it. Glaives suck. Bungie needs to stop nerfing things like Lorentz when they should be buffing Glaives. In PvP, it's even worse. One thing I do have to say is that melee is really good at add clear, especially in low-level PvE. tags:pve
+Forget it. Glaives suck. Bungie needs to stop nerfing things like Lorentz when they should be buffing Glaives. In PvP, it's even worse. One thing I do have to say is that melee is really good at add clear, especially in low-level story missions. tags:pve
 dimwishlist:item=2595497736&perks=594346985,1431678320,1820235745,1015611457,357495645
 dimwishlist:item=2595497736&perks=594346985,1431678320,1820235745,2923251173,357495645
 dimwishlist:item=2595497736&perks=594346985,1431678320,1820235745,4104185692,357495645
@@ -587,7 +587,7 @@ dimwishlist:item=2595497736&perks=594346985,679225683,402033656,4104185692,35749
 dimwishlist:item=2595497736&perks=594346985,679225683,402033656,3007133316,357495645
 
 
-// Eternity's Edge - Sword goes whrrrrrr... (pve)
+// Eternity's Edge - Sword go brrrrrrr... (pve)
 //notes: Wheee! tags:pve
 dimwishlist:item=2782325301&perks=938542991,2363751990,2726471870,3708227201
 dimwishlist:item=2782325301&perks=938542991,2363751990,1749209109,3708227201
@@ -1102,7 +1102,7 @@ dimwishlist:item=4103414242&perks=1392496348,3868766766,1185480639,3465198467
 
 // Tractor Cannon - Bloop (pve,god-pve)
 //notes: Really awesome for higher-level content splash damage or suppression. Keep it. Use it.
-Also, it's just fun to use. tags:pve,god-pve
+Also, it's just fun. tags:pve,god-pve
 dimwishlist:item=3580904581&perks=1467527085,3868766766,25692695,3465198467
 
 
@@ -1112,7 +1112,7 @@ dimwishlist:item=3437746471&perks=1482024992,3142289711,2383960413,1012699414
 
 
 // Sunshot - They're gonna love this. (pve,god-pve,pvp)
-//notes: This thing is so fun. Plus, it's super scalable. It performs really well in both PvE and PvP, in high- and low-end content alike. Though the look is hard t incorporate into any fashion... Just roll with it, I guess. tags:pve,god-pve,pvp
+//notes: This thing is so fun. Plus, it's super scalable. It performs really well in both PvE and PvP, in high- and low-end content alike. Though the look is hard to incorporate into any fashion... Just roll with it, I guess. tags:pve,god-pve,pvp
 dimwishlist:item=2907129557&perks=3661387068,3142289711,4115637021,3917450714
 
 
@@ -1153,7 +1153,7 @@ dimwishlist:item=3588934839&perks=1784898267,16392701,957782887
 
 
 // Monte Carlo - Sol'nades (pve,god-pve,pvp)
-//notes: Use Sunbracers on Warlock for a seriously fun (and slightly overpowered) build. It's fun and extraordinarily useful. tags:pve,god-pve,pvp
+//notes: Use Sunbracers on Warlock for a seriously fun (and slightly overpowered) build. It's extraordinarily useful and really feeds into the power trip. tags:pve,god-pve,pvp
 dimwishlist:item=4068264807&perks=1840239774,1561002382,2814973067,3465198467
 
 
@@ -1168,12 +1168,12 @@ dimwishlist:item=3089417789&perks=839105230,2420895100,1530804125,1067908860
 
 
 // MIDA Multi-Tool - Daily Skate (pve,pvp,god-pvp)
-//notes: Pair this with Mini-tool and Transversive Steps -- and you're FLYING! It's amazing! Almost faster than a Hunter -- try it! tags:pve,pvp,god-pvp
+//notes: Pair this with Mini-tool and Transversive Steps -- and you're FLYING! It's amazing! Almost faster than a Hunter -- try it! This just feels so nice. WGI Rift, GP, missions. WWI NF, end campaigns. WGW Mini; W3 Compass Rose, Null Composure. tags:pve,pvp,god-pvp
 dimwishlist:item=1331482397&perks=4090651448,1561002382,3100590152,990298390
 
 
 // Jötunn - CLANG.EXE (god-pvp,pvp,pve)
-//notes: Overpowered in PvP. Takes quite a bit of practice, though. Get used to one-shot-one-kill :) tags:god-pvp,pvp,pve
+//notes: Overpowered in PvP. Takes quite a bit of practice, though. Get used to one-shot-one-kill :) Just got a catalyst in Season... uh, whatever it is now. tags:god-pvp,pvp,pve
 dimwishlist:item=417164956&perks=332773068,1687452232,3275789089,862848869
 
 
@@ -1193,14 +1193,14 @@ dimwishlist:item=2362471600&perks=1482024992,3425386926,588594999,3142289711
 dimwishlist:item=3844694310&perks=1392496348,1561002382,2387244414
 
 
-// Trinity Ghoul - Three adds walk into a bar... (pve)
+// Trinity Ghoul - Three adds walk into a bow... (pve)
 //notes: Okay for add clear, but not much else. Sad. tags:pve
 dimwishlist:item=814876685&perks=3371775011,16392701,200829441
 
 
 // SUROS Regime - Tyrannical Legacy (pve,pvp)
-//notes: Just... just do it. You'll see why. tags:pve,pvp
-dimwishlist:item=2856683562&perks=3250034553,106909392,1378047685,990298390
+//notes: Just... just do it. You'll see why. The recoil kind of sucks tho. It's versatility IAA is petty legendary. tags:pve,pvp
 dimwishlist:item=2856683562&perks=3250034553,106909392,4012962526,990298390
+dimwishlist:item=2856683562&perks=3250034553,106909392,1378047685,990298390
 
 
